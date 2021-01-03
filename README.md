@@ -22,8 +22,8 @@ cmds.reduceCmd(percentage=50)
 
 ### Demo:
 
-![](https://www.xingyulei.website/images/reducePoly.gif)
+![](https://www.xingyulei.website/assets/reducePoly.gif)
 
 Full Video: https://youtu.be/juwPpeyG7yg
 
-[Test Scene Download](https://www.xingyulei.website/images/reducePolyTest.mb)
+[Test Scene Download](https://www.xingyulei.website/assets/reducePolyTest.mb)
