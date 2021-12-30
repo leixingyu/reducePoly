@@ -18,6 +18,10 @@ The limits are that it takes a lot of time to process high poly mesh, and it onl
 A possible optimization is to compute to desire poly-count, store the vertex order and then re-construct the mesh all at once, 
 but that would lose the slowly-reduced visualization.
 
+<div align="center">
+  <img src="https://i.imgur.com/WyGO59u.gif" alt="reduce">
+</div>
+
 ## Getting Started
 
 > The Plugin is compiled for Maya 2018
@@ -49,7 +53,3 @@ the original. (example: A mesh with 1000 verts will be reduced to
     import maya.cmds as cmds
     cmds.reduceCmd(percentage=50)
     ```
-
-
-![visualize](https://i.imgur.com/WyGO59u.gif)
-
